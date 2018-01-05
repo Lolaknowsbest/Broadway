@@ -1,7 +1,28 @@
+h1{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight:bold;
+  color: white;
+}
+
+.head {
+  background-image: url ("../images/thebuilding.png");
+}
+.header {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
 .bottom{
-  display: block;
+  display:flex;
   font-family: Helvetica;
   font-size: 18px;
   color: white;
   background-color: dimgray;
 }
+ footer a{
+   margin: 0 0.2em;
+   text-decoration:none;
+   color:inherit;
+ }
