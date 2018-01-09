@@ -3,6 +3,7 @@
   font-size: 70px;
   font-weight:bold;
   color: white;
+  text-align: center;
 }
 
 .image {
@@ -12,6 +13,30 @@ background-image: url("https://s3.amazonaws.com/codecademy-content/programs/free
 .header {
   font-family: Helvetica;
   font-size: 18px;
+  color: white;
+  text-align: center;
+}
+
+body{
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+.focus{
+  font-size: 14px;
+}
+
+.special{
+  font-size: 11px;
   color: white;
 }
 
